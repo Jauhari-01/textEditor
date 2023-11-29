@@ -1,0 +1,26 @@
+/* src/App.css */
+.app {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.text-editor{
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+textarea{
+  width: 90vw;
+  height: 55vh;
+  margin-bottom: 10px;
+}
+
+.editor-buttons {
+  text-align: right;
+}
+
+button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
